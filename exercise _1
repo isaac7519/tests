@@ -1,2 +1,4 @@
 num = "Hola Mundo"
 print(num)
+mun = num
+print(mun)
